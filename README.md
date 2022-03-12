@@ -1,0 +1,1 @@
+This must-have library lets you reliantly and instantly crash the JVM.
